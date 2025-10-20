@@ -1,11 +1,5 @@
+# Vue 3 + TypeScript + Vite
 
-  # ProjectDragon Website Design
+This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-  This is a code bundle for ProjectDragon Website Design. The original project is available at https://www.figma.com/design/iz7c0bgU9ziwQJlW6ZOVr6/ProjectDragon-Website-Design.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
